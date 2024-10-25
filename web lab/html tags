@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<title>HTML Tags</title>
+	</head>
+	<body bgcolor="Green">
+		<h1>Heading 1</h1>
+		<h2>Heading 2</h2>
+		<h3>Heading 3</h3>
+		<h4>Heading 4</h4>
+		<h5>Heading 5</h5>
+		<h6>Heading 6</h6>
+		<p align="center">This is a paragraph text.This is a paragraph text.This is a paragraph text.</p>
+		<b>Bold Text</b><br>
+		<u>Underline Text</u><br>
+		<i>Italics</i><br>
+		<marquee>Once upon a time......</marquee>
+		<img src="pic.jpeg "height="100"width="200"alt="html"></img>
+	</body>	
+		
+</html>			
